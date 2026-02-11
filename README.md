@@ -38,7 +38,7 @@ Download the latest release from the [Releases](https://github.com/DreamGlyphStu
 
 ### Mobile Companion (Android)
 
-Download the latest APK from the [Releases](https://github.com/DreamGlyphStudios/ConScribe-Releases/releases) page and install it on your Android device.
+Download the latest APK from the Google Play store and install it on your Android device.
 
 > **Note:** iOS support is coming soon.
 
